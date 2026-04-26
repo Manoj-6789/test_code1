@@ -11,7 +11,7 @@ public class TestCodeApplication {
 		System.out.println("hello");
 		System.out.println("hello world");
 
-		public name(){
+		public void name(){
 			
 		}
 	}

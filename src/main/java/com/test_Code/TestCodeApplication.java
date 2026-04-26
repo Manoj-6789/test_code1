@@ -10,6 +10,10 @@ public class TestCodeApplication {
 		SpringApplication.run(TestCodeApplication.class, args);
 		System.out.println("hello");
 		System.out.println("hello world");
+
+		public void name(){
+			sopln();
+		}
 	}
 
 }

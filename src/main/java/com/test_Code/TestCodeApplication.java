@@ -12,7 +12,7 @@ public class TestCodeApplication {
 		System.out.println("hello world");
 
 		public void name(){
-			
+			sopln();
 		}
 	}
 
